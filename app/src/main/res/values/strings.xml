@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Project 30</string>
+    <string name="day_1">Wake up an hour earlier.</string>
+    <string name="day_2">Make 5 new connections.</string>
+    <string name="day_3">Practice Gratitude. Start a gratitude journal.</string>
+    <string name="day_4">Say No. If something does not fit in your life, just say no.</string>
+    <string name="day_5">Unplug and reduce screen time.</string>
+    <string name="day_6">Be mindful and live in the present moment.</string>
+    <string name="day_7">Travel to a random place where you have never been before.</string>
+    <string name="day_8">Have adequate and quality sleep.</string>
+    <string name="day_9">Live a day as a minimalist.</string>
+    <string name="day_10">Start reading a new book.</string>
+    <string name="day_11">Spend quality time with loved ones, family and friends.</string>
+    <string name="day_12">Create a new morning routine.</string>
+    <string name="day_13">No sugar. That\'s about it. No-sugar day it is.</string>
+    <string name="day_14">Positive self-talk or affirmations.</string>
+    <string name="day_15">Give yourself the personal space.</string>
+    <string name="day_16">Have dinner with your parents.</string>
+    <string name="day_17">Meditate for 20 minutes.</string>
+    <string name="day_18">Quit smoking.</string>
+    <string name="day_19">Curtail your expectations from others.</string>
+    <string name="day_20">Accept the things and stop making excuses.</string>
+    <string name="day_21">Talk about your mental health with someone.</string>
+    <string name="day_22">Quit gossipping.</string>
+    <string name="day_23">Welcome criticism to improve your personality.</string>
+    <string name="day_24">Give a compliment to someone.</string>
+    <string name="day_25">Show a random act of kindness.</string>
+    <string name="day_26">Do fasting promote healthy detoxification.</string>
+    <string name="day_27">No Junk-food for a day.</string>
+    <string name="day_28">Collect Smiles. Did you Smile Today?</string>
+    <string name="day_29">Keep track of water you drink - drink almost a gallon a day.</string>
+    <string name="day_30">Volunteer for social service.</string>
+</resources>
